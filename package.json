@@ -860,7 +860,7 @@
         "@githubprimer/octicons-react": "^8.1.0",
         "chokidar": "^2.0.3",
         "color-normalize": "^1.0.3",
-        "dompurify": "^1.0.3",
+        "dompurify": "^2.0.17",
         "electron-settings": "^3.1.4",
         "find-up": "2.1.0",
         "font-manager": "^0.3.0",
