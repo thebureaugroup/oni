@@ -931,7 +931,7 @@
         "@types/sinon": "5.0.5",
         "@types/webgl2": "^0.0.3",
         "autoprefixer": "6.4.0",
-        "aws-sdk": "^2.202.0",
+        "aws-sdk": "^2.814.0",
         "azure-storage": "^2.8.1",
         "babel-minify-webpack-plugin": "^0.3.1",
         "babel-plugin-dynamic-import-node": "^1.2.0",
