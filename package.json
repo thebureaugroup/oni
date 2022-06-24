@@ -935,7 +935,7 @@
         "azure-storage": "^2.8.1",
         "babel-minify-webpack-plugin": "^0.3.1",
         "babel-plugin-dynamic-import-node": "^1.2.0",
-        "codecov": "^3.0.0",
+        "codecov": "^3.8.3",
         "color": "2.0.0",
         "concurrently": "3.1.0",
         "cross-env": "3.1.3",
