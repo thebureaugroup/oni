@@ -967,7 +967,7 @@
         "lodash": "4.17.0",
         "lolex": "2.3.1",
         "memory-fs": "^0.4.1",
-        "minimatch": "3.0.4",
+        "minimatch": "3.0.5",
         "mkdirp": "0.5.1",
         "mocha": "3.1.2",
         "node-abi": "^2.4.1",
